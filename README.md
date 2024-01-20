@@ -6,8 +6,11 @@
 
 ## HTML_CSS_JAVASCRIPT
  ### ALICE Photography 
-###       https://classroom.github.com/a/zzEr_Oab
+###  https://classroom.github.com/a/zzEr_Oab
 
 ### Sweet Delights
 ### https://classroom.github.com/a/oenRSdHo
+
+### Technology Blog
+### https://classroom.github.com/a/b2Y7BSdU
 

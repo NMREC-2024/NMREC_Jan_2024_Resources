@@ -14,3 +14,5 @@
 ### Technology Blog
 ### https://classroom.github.com/a/b2Y7BSdU
 
+### Task Management System
+### https://classroom.github.com/a/YNYHZB4r     Individual Case Studies
